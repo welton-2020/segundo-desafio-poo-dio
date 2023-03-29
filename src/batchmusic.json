@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Luiz de Carvalho"},
+                  "SongTitle": {"S": "Não Há DEUS Maior"},
+                  "AlbumTitle": {"S": "Dia da Vitória Live"},
+                  "SongYear": {"S": "2002"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Luiz de Carvalho"},
+                  "SongTitle": {"S": "Fala DEUS"},
+                  "AlbumTitle": {"S": "Dia da Vitória"},
+                  "SongYear": {"S": "2002"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Luiz de Carvalho"},
+                  "SongTitle": {"S": "Dia da Vitória"},
+                  "AlbumTitle": {"S": "Dia da Vitória Tour"},
+                  "SongYear": {"S": "2002"}
+                }
+            }
+        }
+      ]
+}
